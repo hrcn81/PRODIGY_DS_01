@@ -1,6 +1,4 @@
-# Prodigy-Internship
-
-#### Task_DS_01
+# Prodigy_DS_01
 
 #### Population Analysis of India (1960 - 2020) 📊
 
