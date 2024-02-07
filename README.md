@@ -1,5 +1,4 @@
 # Prodigy-Internship
-### GitHub README Conclusion:
 
 #### Population Analysis of India (1960 - 2020) 📊
 
